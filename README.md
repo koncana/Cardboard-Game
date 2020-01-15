@@ -1,6 +1,9 @@
 # Cardboard-Game
   
   This is a VR Game where you have to throw the ball to the red boxes with your point of view.
+ 
+  ![Alt Text](Assets/Images/Example.PNG "Tutorial Level")
+  
 ### Getting Started  
   
  * If you want to modify the game, after the changes, save It, build the game (File->Build Settings->Build) and continue with the next step.
